@@ -1,0 +1,37 @@
+User detail
+- First Name
+- Last Name
+- Employee ID
+- Phone
+- Address
+- Email
+- Password
+- User Type
+
+Device Group
+- Group ID
+- Type
+- Description
+- Count
+
+Device Detail
+- Device ID
+- Group ID
+- Description
+- Owned
+
+History
+- History ID
+- Employee ID
+- Device ID
+- Date
+
+Screen:
+- User Login
+- User Dashboard
+- Create New Device Group/Update device Group
+- Create New User
+- Update User
+- Change Password
+- Request for Device
+- History
